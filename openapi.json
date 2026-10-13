@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://api.stockpile.market",
+      "url": "https://stockpile.market",
       "description": "Stockpile Production API"
     }
   ],
