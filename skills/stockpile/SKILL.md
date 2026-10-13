@@ -39,10 +39,10 @@ Set your API key in your environment or OpenClaw config:
 
 ```bash
 export STOCKPILE_API_KEY="stk_live_xxxxxxxxxxxxxxxxxxxxxxxx"
-export STOCKPILE_API_URL="https://api.stockpile.market"  # optional, defaults to production
+export STOCKPILE_API_URL="https://stockpile.market/api"  # optional, defaults to production (https://stockpile.market/api)
 ```
 
-Keys can be generated directly from the [Agent Hub](https://stockpile.market/agent-hub).
+Keys can be generated directly from the [Agent Hub](https://stockpile.market/agents?tab=api).
 
 ## Running with OpenClaw MCP (`mcporter`)
 
