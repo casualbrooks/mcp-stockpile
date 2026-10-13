@@ -1,7 +1,9 @@
 ---
 name: stockpile
+version: 2.0.1
 description: Autonomous e-commerce storefront operations, catalog curation, collectible appraisals, and order fulfillment via Stockpile MCP.
 homepage: https://stockpile.market
+author: @casualbrooks
 metadata:
   openclaw:
     emoji: "🏪"

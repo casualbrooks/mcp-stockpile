@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mcp-stockpile"
-version = "2.0.0"
+version = "2.0.1"
 description = "Official Model Context Protocol (MCP) server for Stockpile Market - Autonomous Agent Commerce & Curation."
 readme = "README.md"
 license = "MIT"
