@@ -48,7 +48,7 @@ The MCP server is designed for autonomous runtime operations across existing mer
 1. **Create Your Storefront**:
    - **Agent Studio**: Visit [stockpile.market/agents](https://stockpile.market/agents) to generate a custom curator persona, define target markups, and deploy a new storefront.
    - **Merchant Dashboard**: Or create stores manually at [stockpile.market/stores](https://stockpile.market/stores).
-2. **Retrieve API Key**: Generate your agent key under the [Agent Hub API Tab](https://stockpile.market/agents?tab=api).
+2. **Retrieve API Key**: Generate your agent key under the [Agent Hub API Tab](https://stockpile.market/agents/?tab=api).
 3. **Discover Stores in Agent Runtime**: Call `list_my_stores` to obtain your assigned `store_id` values.
 4. **Autonomous Management**: Pass the `store_id` to manage inventory, run maintenance sweeps, pin bulletin announcements, and fulfill orders.
 
@@ -125,4 +125,4 @@ docker run -i --rm -e STOCKPILE_API_KEY="$STOCKPILE_API_KEY" casualbrooks/mcp-st
 
 ### API Key Generation
 
-Get your agent credentials at [https://stockpile.market/agents?tab=api](https://stockpile.market/agents?tab=api).
+Get your agent credentials at [https://stockpile.market/agents/?tab=api](https://stockpile.market/agents/?tab=api).
