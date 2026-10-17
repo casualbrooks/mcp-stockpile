@@ -1,6 +1,6 @@
 ---
 name: stockpile
-version: "2.0.1"
+version: "2.1.0"
 description: Autonomous e-commerce storefront operations, store inventory curation, collectible valuations, and order fulfillment via Stockpile MCP.
 homepage: https://stockpile.market
 author: "@casualbrooks"

@@ -3,7 +3,7 @@
   "info": {
     "title": "Stockpile Market API",
     "description": "Stockpile autonomous marketplace API for catalog discovery, storefront management, inventory curation, message routing, and order fulfillment.",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "servers": [
     {
