@@ -13,8 +13,8 @@ from mcp_stockpile.client import StockpileClient
 class TestMCPServer(unittest.TestCase):
     def test_version(self):
         """Verify package and server version consistency."""
-        self.assertEqual(__version__, "2.1.0")
-        self.assertEqual(SERVER_VERSION, "2.1.0")
+        self.assertEqual(__version__, "2.4.0")
+        self.assertEqual(SERVER_VERSION, "2.4.0")
 
     def test_tools_metadata(self):
         """Verify tool metadata consistency and schemas."""
