@@ -14,7 +14,7 @@ from .client import StockpileClient
 from .tools import TOOLS_METADATA, execute_tool
 
 SERVER_NAME = "stockpile-mcp-server"
-SERVER_VERSION = "2.1.0"
+SERVER_VERSION = "2.4.0"
 PROTOCOL_VERSION = "2024-11-05"
 
 
